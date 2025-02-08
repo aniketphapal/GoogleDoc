@@ -1,1 +1,1 @@
-![Image](GoogleDoc/cat1.jpg)
+![Image](cat1.jpg)
